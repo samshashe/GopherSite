@@ -1,0 +1,12 @@
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+.vscode
+debug
+
+# go binary
+GophrSite
+cover.out
+data/images
+# OSX hidden files
+.DS_Store

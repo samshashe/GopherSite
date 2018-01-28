@@ -1,0 +1,42 @@
+{
+	"ImportPath": "GophrSite",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/disintegration/imaging",
+			"Comment": "v1.3.0",
+			"Rev": "1884593a19ddc6f2ea050403430d02c1d0fc1283"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.3-52-g4a0c3d7",
+			"Rev": "4a0c3d73d8579f9fc535cf5e654a651cbd57dd6e"
+		},
+		{
+			"ImportPath": "github.com/julienschmidt/httprouter",
+			"Comment": "v1.1-55-ge1b9828",
+			"Rev": "e1b9828bc9e5904baec057a154c09ca40fe7fae0"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/bcrypt",
+			"Rev": "5f55bce93ad2c89f411e009659bb1fd83da36e7b"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/blowfish",
+			"Rev": "5f55bce93ad2c89f411e009659bb1fd83da36e7b"
+		},
+		{
+			"ImportPath": "golang.org/x/image/bmp",
+			"Rev": "12117c17ca67ffa1ce22e9409f3b0b0a93ac08c7"
+		},
+		{
+			"ImportPath": "golang.org/x/image/tiff",
+			"Rev": "12117c17ca67ffa1ce22e9409f3b0b0a93ac08c7"
+		},
+		{
+			"ImportPath": "golang.org/x/image/tiff/lzw",
+			"Rev": "12117c17ca67ffa1ce22e9409f3b0b0a93ac08c7"
+		}
+	]
+}
